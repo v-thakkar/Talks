@@ -1,2 +1,6 @@
 # Talks
-This repository contains the slides of my talks at events/copnferences. If you are looking for slides and resources for the Linux kernel first patch workshop, then go [here](https://github.com/vthakkar1994/Linux-Kernel-Workshop). 
+This repository contains slides of all my talks at events/copnferences. 
+
+If you are looking for the list of prerequisites and setup directions for the Linux kernel first patch workshop, then go [here](https://github.com/vthakkar1994/Linux-Kernel-Workshop).
+
+If you are looking for the solutions of exercises for the tutorial of Coccinelle, then go [here](https://github.com/vthakkar1994/LinuxCon_Japan).
