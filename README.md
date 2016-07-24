@@ -5,4 +5,4 @@ If you are looking for the list of prerequisites and setup directions for the Li
 
 If you are looking for the solutions of exercises for the tutorial of Coccinelle, then go [here](https://github.com/vthakkar1994/LinuxCon_Japan).
 
-List of all talks can be found on my [website]{http://vthakkar1994.github.io/}.
+List of all talks can be found on my [website](http://vthakkar1994.github.io/).
